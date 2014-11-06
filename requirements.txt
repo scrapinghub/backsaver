@@ -1,0 +1,2 @@
+--allow-external mysql-connector-python
+-e git://github.com/duendex/dulwich.git@mysql#egg=dulwich
